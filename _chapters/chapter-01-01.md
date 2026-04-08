@@ -3,15 +3,6 @@ layout: home
 chapter: "Cybersecurity Basics"
 section: "Cybersecurity?"
 permalink: "chapter-01-01/"
-
-
-id: "education"
-short: "Education"
-title: "Education"
-icon: fa-graduation-cap
-
-
-sort_by_number: 1 
 ---
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xml:lang="en">
 <head>

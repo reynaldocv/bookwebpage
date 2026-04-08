@@ -1,10 +1,5 @@
 ---
 layout: home
-id: "education"
-short: "Education"
-title: "Education"
-icon: fa-graduation-cap
-
 chapter: "Personal Cybersecurity"
 section: "Cibersecurity"
 permalink: "chapter-02-03/"
